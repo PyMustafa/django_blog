@@ -24,4 +24,3 @@ Here are some additional resources that may be useful:
 
 - [Documentation](https://docs.djangoproject.com/)
 - [Bug Tracker](https://github.com/mustafaa828/django_blog/issues)
-- [License](https://github.com/mustafaa828/django_blog/blob/main/LICENSE)
