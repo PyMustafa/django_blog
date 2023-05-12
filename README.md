@@ -32,9 +32,9 @@ If you would like to contribute to the project, please follow these steps:
 2. Create a new branch with your changes.
 3. Submit a pull request.
 
+Label issues, [Bug Tracker](https://github.com/mustafaa828/django_blog/issues)
 ## Additional Information
 
 Here are some additional resources that may be useful:
 
 - [Documentation](https://docs.djangoproject.com/)
-- [Bug Tracker](https://github.com/mustafaa828/django_blog/issues)
