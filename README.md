@@ -16,7 +16,7 @@ To run the project using Docker, follow these steps:
 1. Install Docker if you haven't already.
   - [Docker Desktop for Mac and Windows](https://www.docker.com/products/docker-desktop)
   - [Docker Engine for Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-2. Pull the `django-blog` image from your Docker Hub by running `docker pull mustafaa828/django-blog`.
+2. Pull the `django-blog` image from Docker Hub by running `docker pull mustafaa828/django-blog`.
 3. Run the image using the following command: `docker run -p 8000:8000 django-blog`.
 4. Open your web browser and go to `http://localhost:8000` to view the running application.
 
